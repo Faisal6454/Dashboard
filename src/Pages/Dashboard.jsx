@@ -1,14 +1,15 @@
 import React from 'react';
-import  Bar  from '../Components/Bar';
+import Bar from '../Components/Bar';
 import Data from '../Pages/Data.json';
 import '../index.css'
 import img from '../Asset/img.png'
+
 
 const Dashboard = () => {
   return (
     <>
       <div
-        class="flex flex-1 flex-wrap md:flex-nowrap bg-gray-100 absolute"
+        class="flex flex-1 flex-wrap md:flex-nowrap absolute"
         id="Dashboard"
       >
         <div class="flex-1 p-4 w-full md:w-1/2">
@@ -22,7 +23,7 @@ const Dashboard = () => {
           </div>
           <hr />
 
-          <div class="mt-8 flex flex-wrap space-x-0 space-y-2 md:space-x-4 md:space-y-0">
+          <div class="mt-8 flex flex-wrap space-x-0 space-y-2 md:space-x-4 md:space-y-0 ">
             <div class="flex-1 bg-white p-4 shadow rounded-lg md:w-1/2">
               <h2 class="text-gray-500 text-lg font-semibold pb-1">
                 10K Users Increase
