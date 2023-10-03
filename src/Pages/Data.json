@@ -1,0 +1,50 @@
+[
+    {
+      "country": "03 Mar",
+      "white": 5000,
+      "whiteColor": "hsl(293, 70%, 50%)",
+     
+      "black": 4000,
+      "blackColor": "hsl(236, 70%, 50%)"
+    },
+    {
+      "country": "12 May",
+      "white": 4000,
+      "whiteColor": "hsl(348, 70%, 50%)",
+     
+      "black": 3000,
+      "blackColor": "hsl(36, 70%, 50%)"
+    },
+    {
+      "country": "29 April",
+      "white": 3000,
+      "whiteColor": "hsl(113, 70%, 50%)",
+     
+      "black": 2000,
+      "blackColor": "hsl(77, 70%, 50%)"
+    },
+    {
+      "country": "05 Jun",
+      "white": 3000,
+      "whiteColor": "hsl(300, 70%, 50%)",
+     
+      "black": 2000,
+      "blackColor": "hsl(195, 70%, 50%)"
+    },
+    {
+      "country": "08 Jul",
+      "white": 4000,
+      "whiteColor": "hsl(201, 70%, 50%)",
+      
+      "black": 3000,
+      "blackColor": "hsl(168, 70%, 50%)"
+    },
+    {
+      "country": "10 Aug",
+      "white": 5000,
+      "whiteColor": "hsl(355, 70%, 50%)",
+     
+      "black": 4000,
+      "blackColor": "hsl(104, 70%, 50%)"
+    } ]
+    

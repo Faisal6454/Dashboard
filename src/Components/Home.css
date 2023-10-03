@@ -1,0 +1,33 @@
+
+
+
+.chart-container {
+  position: relative;
+  width: 100%;
+  height: 300px;
+}
+
+#chart-bg {
+  background: linear-gradient(82deg, #FBB4D1 3.73%, #BF9EF2 96.1%); 
+}
+
+#sideNav {
+  width: 380px;
+  height: 1024px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background: linear-gradient(82deg, #FBB4D1 3.73%, #BF9EF2 96.1%);
+}
+
+#Dashboard {
+  right: 0;
+  left: 400px;
+  width: 79%;
+}
+
+nav a {
+  color: #fff;
+}
+nav a:hover {
+  color: #000;
+}
