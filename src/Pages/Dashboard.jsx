@@ -135,7 +135,7 @@ const Dashboard = () => {
                       123.2K<p>Subscribe</p>
                     </span>{" "}
                   </td>
-                  <button className="btn  py-2 px-3 border-b border-grey-light">
+                  <button className="btn  py-2 px-3 border-b border-grey-light shadow">
                     View Details
                   </button>
                 </tr>
@@ -160,7 +160,7 @@ const Dashboard = () => {
                       123.2K<p>Subscribe</p>
                     </span>{" "}
                   </td>
-                  <button className="btn  py-2 px-3 border-b border-grey-light">
+                  <button className="btn  py-2 px-3 border-b border-grey-light shadow">
                     View Details
                   </button>
                 </tr>
@@ -185,7 +185,7 @@ const Dashboard = () => {
                       123.2K<p>Subscribe</p>
                     </span>{" "}
                   </td>
-                  <button className="btn  py-2 px-3 border-b border-grey-light">
+                  <button className="btn  py-2 px-3 border-b border-grey-light shadow">
                     View Details
                   </button>
                 </tr>
@@ -209,7 +209,7 @@ const Dashboard = () => {
                       123.2K<p>Subscribe</p>
                     </span>{" "}
                   </td>
-                  <button className="btn  py-2 px-3 border-b border-grey-light">
+                  <button className="btn  py-2 px-3 border-b border-grey-light shadow">
                     View Details
                   </button>
                 </tr>
@@ -233,7 +233,7 @@ const Dashboard = () => {
                       123.2K<p>Subscribe</p>
                     </span>{" "}
                   </td>
-                  <button className="btn  py-2 px-3 border-b border-grey-light">
+                  <button className="btn  py-2 px-3 border-b border-grey-light shadow">
                     View Details
                   </button>
                 </tr>
